@@ -11,3 +11,9 @@ The objective of this project is to implement a Laplacian blob detector by imple
 • Perform non-maximum suppression in scale space.</br>
 • Display resulting circles at their characteristic scales.</br>
 
+
+<head><b>Libraries used:</b></head>
+import cv2</br>
+import numpy as np</br>
+import math</br>
+import time</br>
