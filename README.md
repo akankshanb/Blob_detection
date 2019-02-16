@@ -12,7 +12,7 @@ The objective of this project is to implement a Laplacian blob detector by imple
 • Display resulting circles at their characteristic scales.</br>
 
 
-<head><b>Libraries used:</b></head>
+<b>Libraries used:</b></br>
 cv2</br>
 numpy</br>
 math</br>
