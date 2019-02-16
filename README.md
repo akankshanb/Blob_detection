@@ -13,7 +13,7 @@ The objective of this project is to implement a Laplacian blob detector by imple
 
 
 <head><b>Libraries used:</b></head>
-import cv2</br>
-import numpy as np</br>
-import math</br>
-import time</br>
+cv2</br>
+numpy</br>
+math</br>
+time</br>
